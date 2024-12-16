@@ -16,6 +16,8 @@ Develop a decorator pattern approach that will implement the given UML diagram:
 
 ![Screenshot 2024-12-16 135127](https://github.com/user-attachments/assets/74303edd-f838-49af-aa7f-f6ebef6018ea)
 
+
+
 The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name :
 
 ```public class Cimb {
@@ -54,6 +56,8 @@ The content of your Cimb.java should ONLY contain the following codes with the e
 	}
 }
  ```
+
+
 
 You should display the following output:
 
